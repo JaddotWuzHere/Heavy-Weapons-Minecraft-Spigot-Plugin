@@ -1,0 +1,26 @@
+#List of item IDs to use in HeavyWeapons. Uses Spigot Material IDs.
+#Type "[]" at the end of "materials:" if you want no vanilla items to become "heavy".
+materials:
+  - STONE_AXE
+  - IRON_AXE
+  - GOLDEN_AXE
+  - DIAMOND_AXE
+  - NETHERITE_AXE
+  - BOW
+  - CROSSBOW
+  - ACACIA_BOAT
+  - BIRCH_BOAT
+  - DARK_OAK_BOAT
+  - JUNGLE_BOAT
+  - MINECART
+  - CHEST_MINECART
+  - COMMAND_BLOCK_MINECART
+  - FURNACE_MINECART
+  - HOPPER_MINECART
+  - TNT_MINECART
+  - OAK_BOAT
+  - SPRUCE_BOAT
+
+#Potion effect to give. Uses Spigot Potion IDs. Cannot be empty.
+#Default value: "SLOW_DIGGING"
+potion_effect: SLOW_DIGGING

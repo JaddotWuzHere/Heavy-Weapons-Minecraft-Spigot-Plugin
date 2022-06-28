@@ -1,0 +1,10 @@
+name: HeavyWeapons
+version: '1.18-1.0'
+main: heavyweapons.heavyweapons.HeavyWeapons
+api-version: 1.18
+authors: [ JaddotWuzHere ]
+description: Makes your weapons have weight!
+commands:
+  hvwreload:
+    description: Reloads HeavyWeapons
+    usage: /<command>
